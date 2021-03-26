@@ -1,0 +1,38 @@
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Datos.dll
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Datos.pdb
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Entidad.dll
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Entidad.pdb
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csprojAssemblyReference.cache
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csproj.CoreCompileInputs.cache
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csproj.CopyComplete
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.dll
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.pdb
+C:\Users\PC_HUILLCA\source\repos\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\WhatsAppApi.dll
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Datos.dll
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Datos.pdb
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Entidad.dll
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\WhatsAppApi.dll
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Entidad.pdb
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csprojAssemblyReference.cache
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csproj.CoreCompileInputs.cache
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csproj.CopyComplete
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.dll
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.pdb
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Telegram.Bot.dll
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Telegram.Bot.xml
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Datos.dll
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Datos.pdb
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Entidad.dll
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Telegram.Bot.dll
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\WhatsAppApi.dll
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Entidad.pdb
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Telegram.Bot.xml
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csprojAssemblyReference.cache
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csproj.CoreCompileInputs.cache
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csproj.CopyComplete
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.dll
+C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.pdb
