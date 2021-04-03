@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Social_Network_Rental.Negocio.Class1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Social_Network_Rental.Negocio.InmuebleNegocio">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAEQAAAAAAAAAAgAAAIAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>InmuebleNegocio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Social_Network_Rental.Negocio.PersonaNegocio">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonaNegocio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Social_Network_Rental.Negocio.Publico_INegocios">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publico_INegocio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Social_Network_Rental.Negocio.UsuarioNegocio">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAgAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UsuarioNegocio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

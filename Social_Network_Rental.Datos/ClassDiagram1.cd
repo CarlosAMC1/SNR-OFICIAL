@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Social_Network_Rental.Datos.Conexion">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAgAAAAAABAAAAAAAAACAAAAAAAEgAAQAgAAAAA=</HashCode>
+      <FileName>Conexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Social_Network_Rental.Datos.InmuebleDatos">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAAAAAAAAAgAAAIAAAAAIAAAAAAEQAAA=</HashCode>
+      <FileName>InmuebleDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Social_Network_Rental.Datos.PersonaDatos">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAAAAAAAAAgAAAIAAAAAIAAAAAAEAAAA=</HashCode>
+      <FileName>PersonaDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Social_Network_Rental.Datos.Publico_IDatos">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAAAAAAEQAAA=</HashCode>
+      <FileName>Publico_IDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Social_Network_Rental.Datos.UsuarioDatos">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAgAAAIAAAAAIAAAAAAEAAAA=</HashCode>
+      <FileName>UsuarioDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
