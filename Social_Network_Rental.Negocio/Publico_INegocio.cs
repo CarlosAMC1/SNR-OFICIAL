@@ -46,5 +46,10 @@ namespace Social_Network_Rental.Negocio
             Publico_IDatos objcategoria = new Publico_IDatos();
             return objcategoria.Buscar(busqueda);
         }
+        //public static DataTable Buscar(string busqueda)
+        //{
+        //    Publico_IDatos objcategoria = new Publico_IDatos();
+        //    return objcategoria.Buscar(busqueda);
+        //}
     }
 }
