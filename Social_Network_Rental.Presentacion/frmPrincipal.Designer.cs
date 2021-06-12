@@ -56,6 +56,7 @@ namespace Social_Network_Rental.Presentacion
             this.btnbuscar = new System.Windows.Forms.Button();
             this.bunifuElipse4 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.panelInicio = new System.Windows.Forms.Panel();
+            this.btnhistorial = new Klik.Windows.Forms.v1.EntryLib.ELButton();
             this.label10 = new System.Windows.Forms.Label();
             this.btncerrarsesion = new System.Windows.Forms.Panel();
             this.label9 = new System.Windows.Forms.Label();
@@ -82,13 +83,13 @@ namespace Social_Network_Rental.Presentacion
             this.btnregistrarusuario = new Klik.Windows.Forms.v1.EntryLib.ELButton();
             this.btnpublicarinmueble = new Klik.Windows.Forms.v1.EntryLib.ELButton();
             this.bunifuElipse3 = new Bunifu.Framework.UI.BunifuElipse(this.components);
-            this.btnhistorial = new Klik.Windows.Forms.v1.EntryLib.ELButton();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pcbminimizar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbcerrar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.icono_inicio)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panelInicio.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.btnhistorial)).BeginInit();
             this.btncerrarsesion.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -105,7 +106,6 @@ namespace Social_Network_Rental.Presentacion
             ((System.ComponentModel.ISupportInitialize)(this.btneditarinmueble)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnregistrarusuario)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnpublicarinmueble)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.btnhistorial)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -416,6 +416,26 @@ namespace Social_Network_Rental.Presentacion
             this.panelInicio.Name = "panelInicio";
             this.panelInicio.Size = new System.Drawing.Size(1034, 503);
             this.panelInicio.TabIndex = 18;
+            // 
+            // btnhistorial
+            // 
+            this.btnhistorial.BorderStyle.EdgeRadius = 7;
+            this.btnhistorial.BorderStyle.SmoothingMode = Klik.Windows.Forms.v1.Common.SmoothingModes.AntiAlias;
+            this.btnhistorial.Cursor = System.Windows.Forms.Cursors.Default;
+            this.btnhistorial.DropDownArrowColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
+            this.btnhistorial.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
+            this.btnhistorial.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
+            this.btnhistorial.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btnhistorial.Location = new System.Drawing.Point(857, 471);
+            this.btnhistorial.Name = "btnhistorial";
+            this.btnhistorial.Office2007Scheme = Klik.Windows.Forms.v1.Common.Office2007Schemes.ModernBlack;
+            this.btnhistorial.Size = new System.Drawing.Size(135, 29);
+            this.btnhistorial.TabIndex = 66;
+            this.btnhistorial.TextStyle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
+            this.btnhistorial.TextStyle.Text = "Historial Reserva";
+            this.btnhistorial.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.btnhistorial.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.System;
+            this.btnhistorial.Click += new System.EventHandler(this.btnhistorial_Click);
             // 
             // label10
             // 
@@ -776,26 +796,6 @@ namespace Social_Network_Rental.Presentacion
             this.bunifuElipse3.ElipseRadius = 30;
             this.bunifuElipse3.TargetControl = this.pnlDespegable;
             // 
-            // btnhistorial
-            // 
-            this.btnhistorial.BorderStyle.EdgeRadius = 7;
-            this.btnhistorial.BorderStyle.SmoothingMode = Klik.Windows.Forms.v1.Common.SmoothingModes.AntiAlias;
-            this.btnhistorial.Cursor = System.Windows.Forms.Cursors.Default;
-            this.btnhistorial.DropDownArrowColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
-            this.btnhistorial.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            this.btnhistorial.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-            this.btnhistorial.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btnhistorial.Location = new System.Drawing.Point(857, 471);
-            this.btnhistorial.Name = "btnhistorial";
-            this.btnhistorial.Office2007Scheme = Klik.Windows.Forms.v1.Common.Office2007Schemes.ModernBlack;
-            this.btnhistorial.Size = new System.Drawing.Size(135, 29);
-            this.btnhistorial.TabIndex = 66;
-            this.btnhistorial.TextStyle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
-            this.btnhistorial.TextStyle.Text = "Historial Reserva";
-            this.btnhistorial.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btnhistorial.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.System;
-            this.btnhistorial.Click += new System.EventHandler(this.btnhistorial_Click);
-            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -822,6 +822,7 @@ namespace Social_Network_Rental.Presentacion
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panelInicio.ResumeLayout(false);
             this.panelInicio.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.btnhistorial)).EndInit();
             this.btncerrarsesion.ResumeLayout(false);
             this.btncerrarsesion.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
@@ -840,7 +841,6 @@ namespace Social_Network_Rental.Presentacion
             ((System.ComponentModel.ISupportInitialize)(this.btneditarinmueble)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnregistrarusuario)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnpublicarinmueble)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.btnhistorial)).EndInit();
             this.ResumeLayout(false);
 
         }

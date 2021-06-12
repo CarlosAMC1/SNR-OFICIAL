@@ -15,6 +15,7 @@ namespace Social_Network_Rental.Datos
         //metodo Loguear 
         public DataTable Loguear(string usuario, string Password)
         {
+            
             SqlDataReader Resultado;
             DataTable Tabla = new DataTable();
             SqlConnection sqlCnx = new SqlConnection();
@@ -140,16 +141,24 @@ namespace Social_Network_Rental.Datos
             SqlConnection sqlCnx = new SqlConnection();
             try
             {
-                sqlCnx = Conexion.getInstancia().EstablecerConexion();
-                SqlCommand comando = new SqlCommand("USP_Usuario_I", sqlCnx);
-                comando.CommandType = CommandType.StoredProcedure;
-                comando.Parameters.Add("@ppersona_id", SqlDbType.VarChar).Value = objcategoria.idUsuario;
-                comando.Parameters.Add("@pusuario", SqlDbType.VarChar).Value = objcategoria.usuario;
-                comando.Parameters.Add("@pclave", SqlDbType.Text).Value = objcategoria.clave;
-                comando.Parameters.Add("@pnivel", SqlDbType.Char).Value = objcategoria.nivel;
-                comando.Parameters.Add("@pestado", SqlDbType.Char).Value = objcategoria.estado;
-                sqlCnx.Open();
-                Rpta = comando.ExecuteNonQuery() == 1 ? "OK" : "No se pudo agregar el registro";
+                if (objcategoria.idUsuario.ToString() != null && objcategoria.usuario!= null && objcategoria.clave != null && objcategoria.nivel != null && objcategoria.estado != null)
+                {
+                    sqlCnx = Conexion.getInstancia().EstablecerConexion();
+                    SqlCommand comando = new SqlCommand("USP_Usuario_I", sqlCnx);
+                    comando.CommandType = CommandType.StoredProcedure;
+                    comando.Parameters.Add("@ppersona_id", SqlDbType.VarChar).Value = objcategoria.idUsuario;
+                    comando.Parameters.Add("@pusuario", SqlDbType.VarChar).Value = objcategoria.usuario;
+                    comando.Parameters.Add("@pclave", SqlDbType.Text).Value = objcategoria.clave;
+                    comando.Parameters.Add("@pnivel", SqlDbType.Char).Value = objcategoria.nivel;
+                    comando.Parameters.Add("@pestado", SqlDbType.Char).Value = objcategoria.estado;
+                    sqlCnx.Open();
+                    Rpta = comando.ExecuteNonQuery() == 1 ? "OK" : "No se pudo agregar el registro";
+                }
+                else
+                {
+                    return "No debe haber campos vacios";
+                }
+                
             }
             catch (Exception ex)
             {

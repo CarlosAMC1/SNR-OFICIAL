@@ -28,6 +28,7 @@ namespace Social_Network_Rental.Negocio
         {
             UsuarioDatos objcategoria = new UsuarioDatos();
             string Existe = objcategoria.Existe(Usuario);
+          
             if (Existe.Equals("1"))
             {
                 return "la categoria ya existe en la BD..";

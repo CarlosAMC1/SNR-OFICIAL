@@ -16,10 +16,12 @@ namespace Social_Network_Rental.Negocio
         {
             PersonaDatos objcategoria = new PersonaDatos();
             string Existe = objcategoria.Existe(Nombre);
+           
             if (Existe.Equals("1"))
             {
-                return "la categoria ya existe en la BD..";
+                return "El Usuario ya existe en la BD..";
             }
+            
             else
             {
                 Persona objcategoriaE = new Persona();

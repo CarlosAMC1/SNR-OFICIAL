@@ -18,3 +18,15 @@ C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social
 C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Telegram.Bot.dll
 C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Newtonsoft.Json.xml
 C:\Users\PC_HUILLCA\Documents\Social_Network_Rental\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Telegram.Bot.xml
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Social_Network_Rental.Entidad.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Social_Network_Rental.Entidad.pdb
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Telegram.Bot.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\WhatsAppApi.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\bin\Debug\Telegram.Bot.xml
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.csprojAssemblyReference.cache
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.csproj.CopyComplete
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.pdb

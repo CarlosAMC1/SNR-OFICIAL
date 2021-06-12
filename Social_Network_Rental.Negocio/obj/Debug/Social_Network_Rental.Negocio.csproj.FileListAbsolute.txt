@@ -42,3 +42,19 @@ C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Re
 C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.csproj.CopyComplete
 C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.dll
 C:\Users\CarlosM\Desktop\PROGRAMACION II\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.pdb
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Social_Network_Rental.Negocio.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Social_Network_Rental.Negocio.pdb
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Social_Network_Rental.Datos.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Social_Network_Rental.Entidad.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Telegram.Bot.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\WhatsAppApi.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Social_Network_Rental.Datos.pdb
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Social_Network_Rental.Entidad.pdb
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Telegram.Bot.xml
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.csprojAssemblyReference.cache
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.csproj.CopyComplete
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.pdb

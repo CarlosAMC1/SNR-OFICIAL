@@ -191,5 +191,15 @@ namespace Social_Network_Rental.Presentacion
             Reportes.FrmReportesPersonas fmra = new Reportes.FrmReportesPersonas();
             fmra.Show();
         }
+
+        private void btnactivar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btndesactivar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
