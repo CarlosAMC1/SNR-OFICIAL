@@ -1,0 +1,15 @@
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\bin\Debug\PruebaInterfaz.exe.config
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\bin\Debug\PruebaInterfaz.exe
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\bin\Debug\PruebaInterfaz.pdb
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz.csprojAssemblyReference.cache
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\MainWindow.g.cs
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\App.g.cs
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz_MarkupCompile.cache
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz_MarkupCompile.lref
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\MainWindow.baml
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz.g.resources
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz.Properties.Resources.resources
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz.csproj.GenerateResource.cache
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz.exe
+C:\Users\CarlosM\Social_Network_Rental\PruebaInterfaz\obj\Debug\PruebaInterfaz.pdb

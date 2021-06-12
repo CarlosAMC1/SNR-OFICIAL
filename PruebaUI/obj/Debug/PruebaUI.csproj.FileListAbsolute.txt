@@ -1,0 +1,6 @@
+C:\Users\CarlosM\Social_Network_Rental\PruebaUI\bin\Debug\PruebaUI.dll
+C:\Users\CarlosM\Social_Network_Rental\PruebaUI\bin\Debug\PruebaUI.pdb
+C:\Users\CarlosM\Social_Network_Rental\PruebaUI\obj\Debug\PruebaUI.csprojAssemblyReference.cache
+C:\Users\CarlosM\Social_Network_Rental\PruebaUI\obj\Debug\PruebaUI.csproj.CoreCompileInputs.cache
+C:\Users\CarlosM\Social_Network_Rental\PruebaUI\obj\Debug\PruebaUI.dll
+C:\Users\CarlosM\Social_Network_Rental\PruebaUI\obj\Debug\PruebaUI.pdb
