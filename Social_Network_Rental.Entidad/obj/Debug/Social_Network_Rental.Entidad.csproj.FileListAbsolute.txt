@@ -29,3 +29,4 @@ C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\S
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.csproj.CopyComplete
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.pdb
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Entidad\obj\Debug\Social_Network_Rental.Entidad.csprojAssemblyReference.cache
