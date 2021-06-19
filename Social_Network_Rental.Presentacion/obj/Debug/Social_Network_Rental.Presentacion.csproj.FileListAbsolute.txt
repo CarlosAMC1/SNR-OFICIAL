@@ -443,7 +443,6 @@ C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\De
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\Debug\Social_Network_Rental.Presentacion.Reportes.frmReporteInmuebleCategoria.resources
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\Debug\Social_Network_Rental.Presentacion.Reportes.FrmReportesPersonas.resources
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\Debug\Social_Network_Rental.Presentacion.csproj.GenerateResource.cache
-C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\Debug\Social_Network_Rental.Presentacion.exe.licenses
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\Debug\RdlCompile.cache
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\Debug\RdlCompile.compiled
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\Debug\Social_Network_Rental.Presentacion.csproj.CoreCompileInputs.cache

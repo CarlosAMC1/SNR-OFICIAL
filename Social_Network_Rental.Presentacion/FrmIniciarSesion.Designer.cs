@@ -54,24 +54,12 @@ namespace Social_Network_Rental.Presentacion
             // 
             // btningresar
             // 
-            this.btningresar.BorderStyle.EdgeRadius = 7;
-            this.btningresar.BorderStyle.SmoothingMode = Klik.Windows.Forms.v1.Common.SmoothingModes.AntiAlias;
             this.btningresar.DropDownArrowColor = System.Drawing.Color.Black;
-            this.btningresar.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            this.btningresar.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-            this.btningresar.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btningresar.Location = new System.Drawing.Point(320, 182);
             this.btningresar.Name = "btningresar";
             this.btningresar.Office2007Scheme = Klik.Windows.Forms.v1.Common.Office2007Schemes.ModernBlack;
             this.btningresar.Size = new System.Drawing.Size(127, 37);
-            this.btningresar.StateStyles.DisabledStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.btningresar.StateStyles.FocusStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.btningresar.StateStyles.HoverStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.btningresar.StateStyles.PressedStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btningresar.TabIndex = 14;
-            this.btningresar.TextStyle.ForeColor = System.Drawing.Color.LightGray;
-            this.btningresar.TextStyle.Text = "Ingresar";
-            this.btningresar.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btningresar.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.ToolBar;
             this.btningresar.Click += new System.EventHandler(this.btningresar_Click);
             // 
@@ -200,25 +188,13 @@ namespace Social_Network_Rental.Presentacion
             // 
             // btnlimpiar
             // 
-            this.btnlimpiar.BorderStyle.EdgeRadius = 7;
-            this.btnlimpiar.BorderStyle.SmoothingMode = Klik.Windows.Forms.v1.Common.SmoothingModes.AntiAlias;
             this.btnlimpiar.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnlimpiar.DropDownArrowColor = System.Drawing.Color.Black;
-            this.btnlimpiar.FlashStyle.PaintType = Klik.Windows.Forms.v1.Common.PaintTypes.Solid;
-            this.btnlimpiar.FlashStyle.SolidColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(240)))), ((int)(((byte)(191)))));
-            this.btnlimpiar.ForegroundImageStyle.ImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btnlimpiar.Location = new System.Drawing.Point(586, 182);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Office2007Scheme = Klik.Windows.Forms.v1.Common.Office2007Schemes.ModernBlack;
             this.btnlimpiar.Size = new System.Drawing.Size(127, 37);
-            this.btnlimpiar.StateStyles.DisabledStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.btnlimpiar.StateStyles.FocusStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.btnlimpiar.StateStyles.HoverStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.btnlimpiar.StateStyles.PressedStyle.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.btnlimpiar.TabIndex = 27;
-            this.btnlimpiar.TextStyle.ForeColor = System.Drawing.Color.LightGray;
-            this.btnlimpiar.TextStyle.Text = "Limpiar";
-            this.btnlimpiar.TextStyle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btnlimpiar.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.ToolBar;
             this.btnlimpiar.Click += new System.EventHandler(this.btnlimpiar_Click);
             // 
