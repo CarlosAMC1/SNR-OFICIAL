@@ -82,7 +82,7 @@ namespace UnitTestProject1
             UsuarioDatos objUsuario = new UsuarioDatos();
             UsuarioEntidad objcategoriaE = new UsuarioEntidad();
             objcategoriaE.idUsuario = 5;
-            objcategoriaE.usuario = "Carlos52165631";
+            objcategoriaE.usuario = "Carlos5256425631";
             objcategoriaE.clave = "123456";
             objcategoriaE.nivel = "Arrendador";
             objcategoriaE.estado = "I";
