@@ -50,3 +50,8 @@ C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Soc
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.csproj.CopyComplete
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\obj\Debug\Social_Network_Rental.Datos.pdb
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\Social_Network_Rental.Datos.dll.config
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Datos\bin\Debug\System.Threading.Tasks.Extensions.xml

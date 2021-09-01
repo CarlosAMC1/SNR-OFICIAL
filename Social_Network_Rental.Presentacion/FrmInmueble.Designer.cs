@@ -216,6 +216,7 @@ namespace Social_Network_Rental.Presentacion
             this.dgvlistar.Name = "dgvlistar";
             this.dgvlistar.Size = new System.Drawing.Size(746, 218);
             this.dgvlistar.TabIndex = 0;
+            this.dgvlistar.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvlistar_CellContentClick);
             // 
             // bunifuElipse8
             // 

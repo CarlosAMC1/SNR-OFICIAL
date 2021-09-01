@@ -58,3 +58,5 @@ C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\S
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.csproj.CopyComplete
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\obj\Debug\Social_Network_Rental.Negocio.pdb
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Social_Network_Rental.Negocio.dll.config
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Negocio\bin\Debug\Social_Network_Rental.Datos.dll.config

@@ -22,6 +22,7 @@ namespace Social_Network_Rental.Presentacion
             InitializeComponent();
             this.BackColor = Color.White;
             panel2.BackColor = Color.FromArgb(170, Color.Black);
+            TitulosGrilla();
         }
 
         //metodo buscar
@@ -81,6 +82,11 @@ namespace Social_Network_Rental.Presentacion
             dgvlistar.Columns[6].HeaderText = "Descripcion";
             dgvlistar.Columns[7].HeaderText = "Estado";
             dgvlistar.Columns[8].HeaderText = "Precio";
+
+        }
+
+        private void dgvlistar_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
         }
     }

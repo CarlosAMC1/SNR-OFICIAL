@@ -33,7 +33,6 @@ namespace Social_Network_Rental.Presentacion
             this.panel1 = new System.Windows.Forms.Panel();
             this.pcbminimizar = new System.Windows.Forms.PictureBox();
             this.pcbcerrar = new System.Windows.Forms.PictureBox();
-            this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.tabgestionar = new System.Windows.Forms.TabControl();
             this.tblistar = new System.Windows.Forms.TabPage();
             this.dgvlistar = new System.Windows.Forms.DataGridView();
@@ -61,6 +60,7 @@ namespace Social_Network_Rental.Presentacion
             this.btngrabar = new System.Windows.Forms.Button();
             this.ErrorAlerta = new System.Windows.Forms.ErrorProvider(this.components);
             this.label7 = new System.Windows.Forms.Label();
+            this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pcbminimizar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbcerrar)).BeginInit();
@@ -108,11 +108,6 @@ namespace Social_Network_Rental.Presentacion
             this.pcbcerrar.TabIndex = 2;
             this.pcbcerrar.TabStop = false;
             this.pcbcerrar.Click += new System.EventHandler(this.pcbcerrar_Click);
-            // 
-            // bunifuElipse1
-            // 
-            this.bunifuElipse1.ElipseRadius = 20;
-            this.bunifuElipse1.TargetControl = this;
             // 
             // tabgestionar
             // 
@@ -406,6 +401,11 @@ namespace Social_Network_Rental.Presentacion
             this.label7.Size = new System.Drawing.Size(250, 24);
             this.label7.TabIndex = 2;
             this.label7.Text = "Editar Datos Usuario";
+            // 
+            // bunifuElipse1
+            // 
+            this.bunifuElipse1.ElipseRadius = 20;
+            this.bunifuElipse1.TargetControl = this;
             // 
             // FrmGestionarUsuario
             // 

@@ -54,12 +54,14 @@ namespace Social_Network_Rental.Presentacion
             // 
             // btningresar
             // 
-            this.btningresar.DropDownArrowColor = System.Drawing.Color.Black;
-            this.btningresar.Location = new System.Drawing.Point(320, 182);
+            this.btningresar.DropDownArrowColor = System.Drawing.Color.WhiteSmoke;
+            this.btningresar.Location = new System.Drawing.Point(323, 197);
             this.btningresar.Name = "btningresar";
             this.btningresar.Office2007Scheme = Klik.Windows.Forms.v1.Common.Office2007Schemes.ModernBlack;
             this.btningresar.Size = new System.Drawing.Size(127, 37);
             this.btningresar.TabIndex = 14;
+            this.btningresar.TextStyle.ForeColor = System.Drawing.SystemColors.Control;
+            this.btningresar.TextStyle.Text = "Ingresar";
             this.btningresar.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.ToolBar;
             this.btningresar.Click += new System.EventHandler(this.btningresar_Click);
             // 
@@ -190,11 +192,13 @@ namespace Social_Network_Rental.Presentacion
             // 
             this.btnlimpiar.Cursor = System.Windows.Forms.Cursors.Default;
             this.btnlimpiar.DropDownArrowColor = System.Drawing.Color.Black;
-            this.btnlimpiar.Location = new System.Drawing.Point(586, 182);
+            this.btnlimpiar.Location = new System.Drawing.Point(589, 197);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Office2007Scheme = Klik.Windows.Forms.v1.Common.Office2007Schemes.ModernBlack;
             this.btnlimpiar.Size = new System.Drawing.Size(127, 37);
             this.btnlimpiar.TabIndex = 27;
+            this.btnlimpiar.TextStyle.ForeColor = System.Drawing.SystemColors.Control;
+            this.btnlimpiar.TextStyle.Text = "Limpiar";
             this.btnlimpiar.VisualStyle = Klik.Windows.Forms.v1.EntryLib.ButtonVisualStyles.ToolBar;
             this.btnlimpiar.Click += new System.EventHandler(this.btnlimpiar_Click);
             // 

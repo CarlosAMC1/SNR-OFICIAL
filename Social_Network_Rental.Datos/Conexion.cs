@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 
 namespace Social_Network_Rental.Datos
 {
-    class Conexion
+    public class Conexion
     {
         private string BD; // nombre de la base de datos
         private string Server; // nombre del servicio /ip/dominio/ localhost
@@ -15,16 +15,25 @@ namespace Social_Network_Rental.Datos
         private string clave;  // Clave del usuario del moto SGBD
         private bool Autenticacion;  // Windows y SQL
         private static Conexion cnx = null; // para saber si hay conexion
-
+        
 
         private Conexion()  //constructor
         {
+            //this.BD = "dn_snr";
+            //this.Server = "dbsnr1.database.windows.net";//Nombre del equipo (Local/Remoto)
+            //this.User = "administrador";
+            //this.clave = "DBSNR-123";
+
+
+            //this.Autenticacion = false; //windows
+
             this.BD = "db_SNR";
             this.Server = "DESKTOP-B7PDPO4";//Nombre del equipo (Local/Remoto)
             this.User = "sa";
             this.clave = "upt";
-            this.Autenticacion = true; //windows
 
+
+            this.Autenticacion = true; //windows
 
         }
         public SqlConnection EstablecerConexion()
@@ -34,7 +43,7 @@ namespace Social_Network_Rental.Datos
             try
             {
                 //cadenaconex.ConnectionString = "Server=" + this.Server + "," + 1433 + " ; " + "Database = " + this.BD + ";";
-                cadena.ConnectionString = "Server=" + this.Server + " ; " + "Database = " + this.BD + ";";
+                cadena.ConnectionString = "Server=" + this.Server + ";" + "Database=" + this.BD + ";";
 
                 if (this.Autenticacion) //seguridad de windows cuando es true
                 {

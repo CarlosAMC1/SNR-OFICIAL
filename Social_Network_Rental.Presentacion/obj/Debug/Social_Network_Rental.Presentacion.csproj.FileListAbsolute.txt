@@ -467,7 +467,6 @@ C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\De
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\System.Numerics.Vectors.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\es\Microsoft.Data.Tools.Schema.Sql.resources.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\es\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\es\Microsoft.Data.Tools.Components.resources.dll
@@ -489,3 +488,6 @@ C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\De
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\obj\Debug\Social_Network_Rental.Presentacion.exe.licenses
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\Social_Network_Rental.Negocio.dll.config
+C:\Users\CarlosM\Social_Network_Rental\Social_Network_Rental.Presentacion\bin\Debug\Social_Network_Rental.Datos.dll.config
