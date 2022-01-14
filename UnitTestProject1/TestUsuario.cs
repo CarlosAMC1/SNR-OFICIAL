@@ -44,7 +44,7 @@ namespace UnitTestProject1
             string Direccion = "Av. tacna122";
             var Resultado = objInmueble.Existe(Direccion);
 
-            Assert.AreEqual(Resultado,"0");
+            Assert.AreEqual(Resultado,"1");
         }
         [TestMethod]
         public void Test_Inmueble_Existe()
@@ -53,15 +53,15 @@ namespace UnitTestProject1
             string Direccion = "Av. tacna";
             var Resultado = objInmueble.Existe(Direccion);
 
-            Assert.AreNotEqual(Resultado, "0");
+            Assert.AreNotEqual(Resultado, "1");
         }
         [TestMethod]
         public void Test_Inmueble_Existe1()
         {
             Publico_IDatos objInmueble = new Publico_IDatos();
-            string Direccion = " ";
+            string Direccion = "Av. tacna" ;
             var Resultado = objInmueble.Existe(Direccion);
-            Assert.AreNotEqual(Resultado, "1");
+            Assert.AreNotEqual(Resultado, "0");
         }  
             [TestMethod]
         public void Test_Usuario_Insertar()

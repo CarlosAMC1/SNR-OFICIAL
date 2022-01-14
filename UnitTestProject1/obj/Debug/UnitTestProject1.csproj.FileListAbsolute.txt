@@ -22,7 +22,6 @@ C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Telegram.Bot.d
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Bunifu_UI_v1.5.3.dll
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
-C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
@@ -35,7 +34,6 @@ C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Social_Network
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Telegram.Bot.xml
-C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
@@ -69,3 +67,6 @@ C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\zh-CHT\Microso
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Social_Network_Rental.Datos.dll.config
+C:\Users\CarlosM\Social_Network_Rental\UnitTestProject1\bin\Debug\Social_Network_Rental.Negocio.dll.config
